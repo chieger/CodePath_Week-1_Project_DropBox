@@ -1,3 +1,5 @@
+##### Hello, I am setup on the observer track for the iOS for designers track. I am a bit unclear as to what the expectations are for observer students as far as subbmitting the weekly assignments, but here it is :)
+
 # CodePath_Week-1_Project_DropBox
 codepath Week 1 assignment dropbox
 
