@@ -9,3 +9,4 @@ codepath Week 1 assignment dropbox
   * Required: User can follow the create user flow. *EXCEPT* (had trouble getting the buttons for licence agreement and sign out to performSegueWithIdentifier...worked great for the signed in "need help with password" and "sign out" It's as if there was something different about the create account chain that was permitting segues from being triggered?
   * Required: User can follow the sign in flow.
  
+/Users/charleshieger/Desktop/DropBox_Week 1_Progect_CodePath.gif
